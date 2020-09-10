@@ -1,0 +1,29 @@
+{
+  "name": "discordbottemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^12.1.1",
+    "erlpack": "github:discordapp/erlpack",
+    "opusscript": "0.0.7",
+    "utf-8-validate": "^5.0.2",
+    "ytdl-core-discord": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HandsomeRomanian/DiscordBotTemplate.git"
+  },
+  "author": "Matei Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HandsomeRomanian/DiscordBotTemplate/issues"
+  },
+  "homepage": "https://github.com/HandsomeRomanian/DiscordBotTemplate#readme"
+}
